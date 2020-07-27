@@ -1,5 +1,5 @@
 ## How to start:
-- Download this repository
+- Download this repository - https://github.com/olegtsizdyn/Angular-Blog-2
 - Open this project in your code editor
 - Enter the command in the terminal "npm i"
 - After that, and start the server with the command "ng serve -o"
